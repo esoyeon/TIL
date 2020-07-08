@@ -51,5 +51,13 @@
 
    `$git push -u origin master`
 
+5. 다른 컴퓨터에서 remote repo **최초**로 받아오기
+
+   `$ git clone <url>`
+
+6. 이후 remote repo 변경사항을 local repo에서 반영하기 
+
+   `$git pull`
+
 
 
