@@ -68,5 +68,5 @@
 4. 집 가기 전에 `$git push`
 
 5. 집 도착 `$git pull`
-6. 복습 및 자습
+6. 복습 및 자습 `$git commit`
 7. 마지막으로 `$git push`
