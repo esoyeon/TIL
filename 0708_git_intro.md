@@ -59,5 +59,14 @@
 
    `$git pull`
 
+## TIL 관리 시나리오
 
+1. 멀캠
+2. `$git pull`
+3. 중간중간`$git add .` & `$git commit`
 
+4. 집 가기 전에 `$git push`
+
+5. 집 도착 `$git pull`
+6. 복습 및 자습
+7. 마지막으로 `$git push`
