@@ -22,6 +22,9 @@
 
 4. stage에 올리기 `$git add`
 
+   1. 특정 파일만 올리기 `$git add <file name>`
+   2. 내 위치 폴더 다 올리기 `$ git add .
+
 5. snapshot 찍기 `$git commit`
 
    ​	`commit -m`: -m은 message라는 뜻
