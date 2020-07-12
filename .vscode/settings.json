@@ -1,6 +1,5 @@
 {
-    "python.pythonPath": "C:\\Users\\leeso\\anaconda\\envs\\nlp\\python.exe",
-    "python.dataScience.jupyterServerURI": "local",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
+    "python.pythonPath": "C:\\Users\\leeso\\anaconda\\envs\\crawl\\python.exe",
+
+
 }
