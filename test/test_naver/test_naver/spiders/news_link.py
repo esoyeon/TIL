@@ -10,11 +10,10 @@ class QuotesSpider(scrapy.Spider):
     def start_requests(self):
         urls = []
 
-        for i in range(1, 6, 1):
+        for i in range(1, 2920, 1):
             l = 'http://news.einfomax.co.kr/news/articleList.html?page={}&total=87585&sc_sdate=2005-01-01&sc_edate=2017-05-31&sc_word=%EA%B8%88%EB%A6%AC&view_type=sm'.format(i)
             urls.append(l)
 
-        print(urls)
 
         for url in urls:
             yield scrapy.Request(url=url, callback=self.parse)
