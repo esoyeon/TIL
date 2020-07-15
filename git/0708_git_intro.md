@@ -80,3 +80,17 @@
 5. 집 도착 `$git pull`
 6. 복습 및 자습 `$git commit`
 7. 마지막으로 `$git push`
+
+### Branch 만들기
+
+![image-20200715092021607](0708_git_intro.assets/image-20200715092021607.png)
+
+```
+
+1.```$git checkout -b <경로/브렌치 이름> ```
+2. git push를 하면 로컬에 있는 브랜치가 hub에 없다는 메시지가 뜨는데, 그걸 카피를 떠서 명령을 줌
+-> git hub에 올라가라고
+3. git hub 해당 브렌치 들어가면 > compare & pull request
+	
+```
+
