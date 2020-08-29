@@ -1,4 +1,10 @@
 *.pdf
 *.txt
-
+*.wav
+*.whl
+*.exe
+*.csv
+*.xlsx
 C:\Users\leeso\TIL\Project\BOK_paper
+‪C:\Users\leeso\TIL\etc
+C:\Users\leeso\TIL\Compas\Data
